@@ -1,3 +1,11 @@
+body{
+    background-image: linear-gradient(to bottom, 
+    #588ad5, #00b1e9, #00d2d7, #65ecad, #d8fb88);
+}
 .caja{
- 
+ margin-bottom: 30px;
+ padding: 16px;
+ box-shadow: 3px 3px 10px gray;
+background:white;
+ width: 400px;
 }
